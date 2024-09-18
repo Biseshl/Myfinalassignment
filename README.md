@@ -1,4 +1,7 @@
 # Myfinalassignment
+
+**If failed to run code please check ZIP file.**
+**Sorry for interruption😊**
 NIT3213
 Bisesh Lamichhane 's4678062'
 
